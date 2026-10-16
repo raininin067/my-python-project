@@ -18,9 +18,10 @@
 - PyPDF (PDF 解析)
 
 ## 🚀 如何运行
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/rainin067/my-python-project.git
-   ## 📸 效果截图
+1. 克隆仓库到本地：`git clone https://github.com/rainin067/my-python-project.git`
+2. 安装依赖包：`pip install -r requirements.txt`
+3. 启动应用：`streamlit run app.py`
+4. 在浏览器打开 `http://localhost:8501`，输入你的 DeepSeek API Key 即可开始提问。
 
+## 📸 效果截图
 ![RAG问答系统界面](https://github.com/user-attachments/assets/cbe05c7c-3649-4ad4-825b-3e448aa87b01)
