@@ -24,4 +24,5 @@
 4. 在浏览器打开 `http://localhost:8501`，输入你的 DeepSeek API Key 即可开始提问。
 
 ## 📸 效果截图
-<img width="2560" height="1394" alt="image" src="https://github.com/user-attachments/assets/fc5e92bf-9ff1-447e-a732-34bc67714b5a" />
+<img width="2560" height="1343" alt="image" src="https://github.com/user-attachments/assets/3cb2a066-ae98-4b64-903f-64f45c5ed4ca" />
+
