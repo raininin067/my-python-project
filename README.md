@@ -24,4 +24,4 @@
 4. 在浏览器打开 `http://localhost:8501`，输入你的 DeepSeek API Key 即可开始提问。
 
 ## 📸 效果截图
-![RAG问答系统界面](https://github.com/user-attachments/assets/cbe05c7c-3649-4ad4-825b-3e448aa87b01)
+<img width="2560" height="1394" alt="image" src="https://github.com/user-attachments/assets/fc5e92bf-9ff1-447e-a732-34bc67714b5a" />
